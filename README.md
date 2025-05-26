@@ -1,5 +1,11 @@
  Stock app
+ key points to focus 
+ >usage of components
+>useeffect usage
+>usage of states
+>even though im a beginner i tried to solve but i got errors in fetching the data so i used the response you gave 
  failed to fetch the details but usedresponse # Getting Started with Create React App
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
