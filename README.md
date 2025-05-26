@@ -9,7 +9,6 @@ StockPage – to show the stock data
 
 Heatmap – to visualize correlation
 
-StockCard – for individual stock display
 
 ✅ State Management with useState:
 I used useState to manage things like:
@@ -21,7 +20,7 @@ loading and error states
 selected stock symbols
 
 ✅ Data Fetching with useEffect:
-To fetch stock prices and update them on component load, I used useEffect. Initially, I struggled with async calls and got a few errors. But I learned how to handle those better by exploring best practices and applying help I received (including from ChatGPT!).
+To fetch stock prices and update them on component load, I used useEffect. Initially, I struggled with async calls and got a few errors. But I learned how to handle those better by exploring best practices and applying
 
 ✅ API Integration Challenges:
 As a beginner, I found it tricky to correctly fetch data from stock exchange APIs. I got stuck with error handling and mapping API responses. Eventually, I used the response I received here and tried to understand and adapt it myself.
@@ -44,8 +43,6 @@ Learn how to cache API responses
 
 Add charts with Recharts or Chart.js
  
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
