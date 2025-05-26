@@ -20,7 +20,7 @@ loading and error states
 selected stock symbols
 
 ✅ Data Fetching with useEffect:
-To fetch stock prices and update them on component load, I used useEffect. Initially, I struggled with async calls and got a few errors. But I learned how to handle those better by exploring best practices and applying
+To fetch stock prices and update them on component load, I used useEffect. Initially, I struggled with async calls and got a few errors. But I learned how to handle those better by exploring best practices
 
 ✅ API Integration Challenges:
 As a beginner, I found it tricky to correctly fetch data from stock exchange APIs. I got stuck with error handling and mapping API responses. Eventually, I used the response I received here and tried to understand and adapt it myself.
