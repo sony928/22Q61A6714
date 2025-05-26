@@ -26,7 +26,7 @@ To fetch stock prices and update them on component load, I used useEffect. Initi
 As a beginner, I found it tricky to correctly fetch data from stock exchange APIs. I got stuck with error handling and mapping API responses. Eventually, I used the response I received here and tried to understand and adapt it myself.
 
 🌱 Beginner Learning Note
-Even though the final version works because of some help, I’m proud that I could break it down and apply the logic. I'm not yet perfect, but I’ve learned a lot about:
+Even though the final version works because of some help(using responses that you gave) I’m proud that I could break it down and apply the logic. I'm not yet perfect, but I’ve learned a lot about:
 
 breaking a problem into components
 
