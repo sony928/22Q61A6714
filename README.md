@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+ Stock app
+ failed to fetch the details but usedresponse # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
